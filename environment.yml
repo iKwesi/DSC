@@ -1,0 +1,31 @@
+name: DS_project
+channels:
+  - defaults
+dependencies:
+  - ca-certificates=2020.10.14
+  - certifi=2020.11.8
+  - click=7.1.2
+  - flask=1.1.2
+  - itsdangerous=1.1.0
+  - jinja2=2.11.2
+  - markupsafe=1.1.1
+  - openssl=1.1.1h
+  - pip=20.3
+  - python=3.8.5
+  - setuptools=50.3.2
+  - sqlite=3.33.0
+  - werkzeug=1.0.1
+  - wheel=0.36.0
+  - zlib=1.2.11
+  - pip:
+    - astroid==2.4.2
+    - colorama==0.4.4
+    - isort==5.6.4
+    - lazy-object-proxy==1.4.3
+    - mccabe==0.6.1
+    - pylint==2.6.0
+    - six==1.15.0
+    - toml==0.10.2
+    - wrapt==1.12.1
+prefix: C:\ProgramData\Miniconda3\envs\DS_project
+
