@@ -1,4 +1,4 @@
-static/* linguist-vendored
+example-voting-app/* linguist-vendored
 
 *.py linguist-language=Python
 *.sh linguist-language=bash
