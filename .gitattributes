@@ -1,6 +1,0 @@
-example-voting-app/* linguist-vendored
-
-*.py linguist-language=Python
-*.sh linguist-language=bash
-*Dockerfile linguist-language=Docker
-Home Tasks/* linguist-documentation
